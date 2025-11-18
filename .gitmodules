@@ -1,0 +1,3 @@
+[submodule "GaussianGrasper"]
+	path = GaussianGrasper
+	url = https://github.com/MrSecant/GaussianGrasper.git
