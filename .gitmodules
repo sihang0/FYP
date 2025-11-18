@@ -1,3 +1,6 @@
 [submodule "GaussianGrasper"]
 	path = GaussianGrasper
 	url = https://github.com/MrSecant/GaussianGrasper.git
+[submodule "competition"]
+	path = competition
+	url = git@github.com:sihang0/competition.git
